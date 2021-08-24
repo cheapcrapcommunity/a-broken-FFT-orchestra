@@ -1,3 +1,4 @@
+![Screenshot 2021-08-24 at 1 43 08 PM](https://user-images.githubusercontent.com/76624368/130618308-da747eaa-490a-43a3-ae41-cbdd70ed4294.png)
 # a-broken-FFT-orchestra
 
 I want to create piece ‘played’ by a broken FFT orchestra with this project. 
