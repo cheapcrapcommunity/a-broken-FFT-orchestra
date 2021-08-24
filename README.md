@@ -21,3 +21,6 @@ Also, I feed the signal and turn it on and off immediately to create some micro 
 
 Because there’s a tempo router controls  the tempo of writing the sample value. So the 4 mins track is symmetrical in structure but runs bpm 120, 640, 120, 640 in turn. 
 
+
+Demo: 
+https://vimeo.com/manage/videos/591612884
